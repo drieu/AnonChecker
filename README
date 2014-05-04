@@ -1,9 +1,26 @@
-This file was created by IntelliJ IDEA 12.1.6 for binding GitHub repository
+AnonChecker
+===========
 
-TODO :
+Small project to study JavaFx.
+
+Useful links
+------------
+
+http://docs.oracle.com/javase/8/javafx/fxml-tutorial/why_use_fxml.htm#JFXMG137
+http://docs.oracle.com/javase/8/javafx/fxml-tutorial/fxml_tutorial_intermediate.htm#CACFEHBI
+http://docs.oracle.com/javafx/2/get_started/fxml_tutorial.htm
+http://java-buddy.blogspot.fr/2012/05/create-gridpane-using-fxml.html
+
 http://java.dzone.com/articles/create-javafx-executables
 
-TODO : change signin
+Signin jar
+----------
+
+http://docs.oracle.com/javase/tutorial/security/toolsign/signer.html
+
 keytool -genkey -alias signFiles -keystore anonchecker
+
+Launch app
+----------
 
 /opt/drieu/jdk1.8.0_05/bin/java -jar YourAppName.jar
