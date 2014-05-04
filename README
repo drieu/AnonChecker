@@ -2,3 +2,8 @@ This file was created by IntelliJ IDEA 12.1.6 for binding GitHub repository
 
 TODO :
 http://java.dzone.com/articles/create-javafx-executables
+
+TODO : change signin
+keytool -genkey -alias signFiles -keystore anonchecker
+
+/opt/drieu/jdk1.8.0_05/bin/java -jar YourAppName.jar

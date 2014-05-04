@@ -1,4 +1,4 @@
-package sample;
+package fr.drieu.anon;
 
 public class Controller {
 }
